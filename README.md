@@ -4,6 +4,16 @@ Here, you'll find a brief on what each file does.
 Feel free to play with the code, and if you have improved on any of the codes, feel free to get in touch!
 Go nuts! XD
 
+All codes are written Jupyter lab. If you don't have jupyter notebook, GET IT! It's really convenient. Just type
+```
+$ pip install jupyter
+```
+and you're good to go. If you still want to stick with your text editor, then use the following commands to convert the downloaded .ipynb script to .py (replace <name_of_file> with the name of your file)- 
+```
+ $ pip install ipynb-py-convert
+ $ ipynb-py-convert <name_of_file>.ipynb <name_of_file>.py
+```
+
 ## Files and their descriptions
 ### [Bouncing_Ball_Flicker.ipynb](https://github.com/TheGeekyWarren/Lab_Rotation_Hillier/blob/main/Bouncing_Ball_Flicker.ipynb) 
 This is the code for the bouncing ball game developed to engage visual smooth pursuit.
@@ -43,3 +53,5 @@ If everything is smooth till now, then you can proceed to the code.
 * Change the ip address in both the scripts (on both receiver system and the pi) to the IP address of the receiver system. 
 * Now you're good to go. Run the script on the pi and without much delay, run the script on the receiver system as well. 
 * Notes – the program can be closed at any time by pressing 'q' on the OpenCV window. You can also edit the name of the video file you want to store it as, as well as the fps and the format. Keep in mind that the code run on the raspberry pi waits for only a few seconds to receive feedback from the receiver system's code before shutting off. So it is recommended to start running boh codes within a few seconds of each other. 
+
+### Simplified Codes

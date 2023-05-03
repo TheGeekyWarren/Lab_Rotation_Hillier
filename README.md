@@ -5,5 +5,5 @@ Feel free to play with the code, and if you have improved on any of the codes, f
 Go nuts! XD
 
 ## Files and their descriptions
-* [Analysis.ipynb](https://github.com/TheGeekyWarren/Lab_Rotation_Hillier/blob/main/Analysis.ipynb)
+* [Bouncing_Ball_Flicker.ipynb](https://github.com/TheGeekyWarren/Lab_Rotation_Hillier/blob/main/Bounncing_Ball_Flicker.ipynb)
 * 

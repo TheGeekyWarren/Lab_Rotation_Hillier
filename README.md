@@ -55,3 +55,5 @@ If everything is smooth till now, then you can proceed to the code.
 * Notes – the program can be closed at any time by pressing 'q' on the OpenCV window. You can also edit the name of the video file you want to store it as, as well as the fps and the format. Keep in mind that the code run on the raspberry pi waits for only a few seconds to receive feedback from the receiver system's code before shutting off. So it is recommended to start running boh codes within a few seconds of each other. 
 
 ### Simplified Codes
+These codes are the kinda simplified and straightforward runs for DeepLabCut analysis using Model Zoo's 'primate face' model. First, enter the path of the video of choice in  lets you downsample the video of choice, then create a new folder and use it as your current working directory, where you can hen analyse the video using DeepLabCut.
+* [Simplified_code-AGC.ipynb] (https://github.com/TheGeekyWarren/Lab_Rotation_Hillier/blob/main/Simplified_Code-AGC.ipynb) 

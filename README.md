@@ -66,3 +66,6 @@ Most of the changes across the scripts are concentrated on the preprocessing of 
 * [Simplified_Code_DLCcrp.ipynb](https://github.com/TheGeekyWarren/Lab_Rotation_Hillier/blob/main/Simplified_Code_DLCcrp.ipynb) - This is an earlier segmented version of the OSC which can be used to troubleshoot the code during development. You migth find it more convenient to work with this if you wish to edit the code to your tastes. 
 * [Simplified_Code_Original.ipynb](https://github.com/TheGeekyWarren/Lab_Rotation_Hillier/blob/main/Simplified_Code_Original.ipynb) - This is one of the earliest version of the script we developed for DeepLabCut analysis. Here, you can do manual temporal cropping (chop a video based on the start and end second of your choice) and perform generalized gamma correction with a fixed pre-determined gamma value (again, of your choice). 
 
+##Note
+Beware this folder - [Every_code_written](https://github.com/TheGeekyWarren/Lab_Rotation_Hillier/tree/main/All_codes_ever/Every_code_written) 
+This contains all the scripts written towards developing these tasks. Some may not have been commented, some have been just to play around, and some make no sense whatsoever. If you feel adventurous enough, welcome to the jungle. 
